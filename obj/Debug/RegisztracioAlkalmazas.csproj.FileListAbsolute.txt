@@ -1,0 +1,10 @@
+C:\Users\Sárközi Lili\Desktop\a\Tanulás\C#\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.exe.config
+C:\Users\Sárközi Lili\Desktop\a\Tanulás\C#\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.exe
+C:\Users\Sárközi Lili\Desktop\a\Tanulás\C#\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.pdb
+C:\Users\Sárközi Lili\Desktop\a\Tanulás\C#\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.csprojAssemblyReference.cache
+C:\Users\Sárközi Lili\Desktop\a\Tanulás\C#\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.Form1.resources
+C:\Users\Sárközi Lili\Desktop\a\Tanulás\C#\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.Properties.Resources.resources
+C:\Users\Sárközi Lili\Desktop\a\Tanulás\C#\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.csproj.GenerateResource.cache
+C:\Users\Sárközi Lili\Desktop\a\Tanulás\C#\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.csproj.CoreCompileInputs.cache
+C:\Users\Sárközi Lili\Desktop\a\Tanulás\C#\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.exe
+C:\Users\Sárközi Lili\Desktop\a\Tanulás\C#\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.pdb
